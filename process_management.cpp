@@ -16,9 +16,9 @@ using namespace std::chrono;    // NAMESPACE FOR HIGH RESOLUTION CLOCK
 
 const int SIZE_OF_THE_ARRAY = 10000;        
 const int MAX_RANGE_OF_NUMBERS = 1000000;
-const string RANDOM_NUMBER_FILE_PATH = "/home/akbar/Desktop/numbers.txt"; // Absolute path
-const string PRIME_NUMBER_FILE_PATH = "/home/akbar/Desktop/prime.txt"; // Absolute path 
-const string PRIME_NUMBER_FILE_PATH_FOR_CHILD_PROCESSES = "/home/akbar/Desktop/prime2.txt"; // Absolute path
+const string RANDOM_NUMBER_FILE_PATH = "/home/faqeeh/Desktop/numbers.txt"; // Absolute path
+const string PRIME_NUMBER_FILE_PATH = "/home/faqeeh/Desktop/prime.txt"; // Absolute path 
+const string PRIME_NUMBER_FILE_PATH_FOR_CHILD_PROCESSES = "/home//Desktop/prime2.txt"; // Absolute path
 int ARRAY_OF_RANDOM_NUMBER[SIZE_OF_THE_ARRAY];
 
 /* -----------END OF CONSTANT VARIABLES-----------  */
